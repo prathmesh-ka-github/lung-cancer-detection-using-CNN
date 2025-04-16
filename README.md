@@ -1,6 +1,8 @@
 # ICSI 435/535 - Artificial intelligence Project
 ## Lung Cancer Detection using CNN
 
+![Presentation slide](image.png)
+
 Dataset -
 Lung and Colon Cancer Histopathological Images
 25000 images of 5 classes including lung and colon cancer and healthy samples. 
@@ -28,3 +30,7 @@ Lung and Colon Cancer Histopathological Images
 * tensorflow
 * keras
 * warnings
+
+
+## Project Flow Diagram -
+![Project Flow](Project_Flow.png)
